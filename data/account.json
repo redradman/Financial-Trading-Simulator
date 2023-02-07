@@ -1,0 +1,15 @@
+{
+    "password": "a",
+    "currentHoldings": [{
+        "ticker": "ANGL",
+        "quantity": 1,
+        "initialPrice": 100,
+        "name": "Angel Corp",
+        "purchasePrice": 104.15115122048262,
+        "volatility": 5
+    }],
+    "balance": 910.1036008758581,
+    "wrongAttempts": 0,
+    "authenticationNumber": 274154931,
+    "username": "a"
+}

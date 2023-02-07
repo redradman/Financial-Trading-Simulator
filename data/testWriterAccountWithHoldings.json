@@ -1,0 +1,33 @@
+{
+    "password": "password",
+    "currentHoldings": [
+        {
+            "ticker": "APPL",
+            "quantity": 3,
+            "initialPrice": 2000,
+            "name": "Apple",
+            "purchasePrice": 300,
+            "volatility": 5
+        },
+        {
+            "ticker": "ORNG",
+            "quantity": 20,
+            "initialPrice": 10,
+            "name": "Orange",
+            "purchasePrice": 10,
+            "volatility": 2
+        },
+        {
+            "ticker": "BNNA",
+            "quantity": 3,
+            "initialPrice": 10000,
+            "name": "Banana",
+            "purchasePrice": 1,
+            "volatility": 4
+        }
+    ],
+    "balance": 10000,
+    "wrongAttempts": 2,
+    "authenticationNumber": 987654321,
+    "username": "username"
+}
