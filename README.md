@@ -8,6 +8,12 @@ in testnet before trading with real money**. The users are provided
 with fake money in the beginning. *They can use it to make fictitious
 trades in an offline smaller market.*
 
+## Notes
+This project was designed as part of the curriculum for the CPSC 210 course provided by University of British Columbia (UBC) in 2022.  
+This custom trading program is implementing the price movement of equities in the hypothetical stock market by assuming that the market is following the random walk theory (in other words, it assume that the prices follow a stochastic process). 
+*The project is designed entirely with Java and is not allowed to make any external calls.*   
+*The additional text below here is created at the instructions of the rubric for the project.*   
+
 ## Who will use it?
 The users are individuals who will attempt to purchase equities in 
 markets from the brokers in the future (can be wealth management consultants or individuals).
