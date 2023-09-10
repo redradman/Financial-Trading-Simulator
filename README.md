@@ -1,5 +1,5 @@
 # Custom Testnet trading System
-
+**This project was designed for CPSC-210 in UBC**
 
 ## What will the application do?
 **The system is designed such that a user after creating an account
